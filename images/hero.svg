@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Plate of fresh food with leaves">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2F7A69"/><stop offset="1" stop-color="#143F36"/></linearGradient></defs>
+<rect width="800" height="600" fill="url(#g)"/><ellipse cx="400" cy="300" rx="260" ry="200" fill="#1A4F44" opacity=".6"/>
+<circle cx="360" cy="260" r="170" fill="#FAF1E4"/><circle cx="360" cy="260" r="135" fill="none" stroke="#E3D6C3" stroke-width="6"/>
+<circle cx="320" cy="240" r="48" fill="#B98B55"/><circle cx="400" cy="290" r="40" fill="#A5522F"/><circle cx="350" cy="320" r="30" fill="#5E8F6B"/>
+<path d="M300 200q40-70 110-40q-20 60-110 40z" fill="#5E8F6B"/><path d="M420 220q60-30 90 20q-50 40-90-20z" fill="#7FA886"/>
+<rect x="560" y="300" width="150" height="110" rx="10" fill="#B98B55"/><rect x="545" y="280" width="180" height="32" rx="8" fill="#C9A06C"/>
+<path d="M635 365c-30-22-40-45-20-58 12-8 20 0 20 8 0-8 8-16 20-8 20 13 10 36-20 58z" fill="#FAF1E4"/>
+<path d="M120 420q30-60 80-40q-10 60-80 40z" fill="#5E8F6B" opacity=".8"/>
+</svg>
