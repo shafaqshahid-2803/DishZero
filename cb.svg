@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" role="img" aria-label="Cafe coffee and croissant">
+<rect width="400" height="200" fill="#F3E5D0"/><rect y="150" width="400" height="50" fill="#C9A06C"/>
+<path d="M120 80h90v50q0 25-45 25t-45-25z" fill="#FAF1E4" stroke="#2B2D2A" stroke-width="4"/><path d="M210 92q30 0 30 22t-30 22" fill="none" stroke="#2B2D2A" stroke-width="5"/><path d="M130 82h70v10h-70z" fill="#6B4A2B"/><path d="M265 140q10-50 55-45q35 10 30 45z" fill="#B98B55"/><path d="M290 100l8 40m14-40l-4 40" stroke="#8A6325" stroke-width="3"/></svg>
